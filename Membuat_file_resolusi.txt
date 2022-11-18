@@ -3,3 +3,4 @@ Verdiana_repository
 - mengerjakan ujian dengan baik dan tepat waktu 
 - menghadiri kelas tepat waktu 
 - memperhatikan materi yang disampaikan dosen 
+- mengerjakan sistem untuk skripsi
